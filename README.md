@@ -1,5 +1,8 @@
 # JSON-to-SQL
-# AJ-JSON-to-SQL
+# JSONToSQL
+# JSON2SQL
+# SQL-From-JSON
+# SQLFromJSON
 Simple utility to convert an extracted JSON from metabase to SQL DML.
 
 How to use:
